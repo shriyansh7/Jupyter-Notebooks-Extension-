@@ -1,0 +1,13 @@
+Type: Jupyter Notebook Extension
+Name: Data Science Toolkit
+Description: Enhances Jupyter Notebooks with data science utilities and code timing
+Link: https://github.com/yourusername/jupyter-data-science-toolkit
+Main: main.js
+Compatibility: Jupyter Notebook >= 4.2
+Parameters:
+- none
+Tags:
+- data science
+- productivity
+- timing
+- utilities
